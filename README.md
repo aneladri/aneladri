@@ -79,7 +79,6 @@ https://github.com/aneladri/product-insights-dashboard
 # 📫 Connect With Me
 
 - GitHub: https://github.com/aneladri
-- LinkedIn: Add your LinkedIn here
 
 ---
 
