@@ -7,6 +7,9 @@ I enjoy building full-stack applications, analytics dashboards, and product-focu
 ---
 
 ## 🛠️ Tech Stack
+
+React • FastAPI • Python • SQLite • Pandas • JavaScript • Vercel • Render
+
 ---
 
 # 🚀 Featured Projects
