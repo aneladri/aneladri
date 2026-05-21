@@ -1,4 +1,4 @@
-# Hi, I'm Aneesh 👋
+# Hi, I'm Aneesh Neladri👋
 
 💻 Full-Stack Developer | 📊 Product & Analytics Enthusiast
 
