@@ -82,4 +82,14 @@ https://github.com/aneladri/product-insights-dashboard
 
 ---
 
+## 🌐 Live Demo
+
+Frontend:
+https://react-todo-app-rho-opal.vercel.app
+
+Backend API:
+https://smart-task-manager-api-t40k.onrender.com/tasks
+
+---
+
 ⭐ Always building and learning.
